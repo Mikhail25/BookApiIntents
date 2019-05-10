@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Books API Intents</string>
+    <string name="hint_til_search_for_book_name">Search for book name</string>
+    <string name="btn_text_search">Search</string>
+
+    <string-array name="bookType">
+        <item>All</item>
+        <item>Books</item>
+        <item>Magazines</item>
+    </string-array>
+</resources>
